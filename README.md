@@ -1,3 +1,4 @@
+![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Priyanuj Choudhury</h1>
 <h3 align="center">A passionate Engineering student from Mumbai, India.</h3>
 
